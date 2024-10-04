@@ -22,6 +22,12 @@ Atualizações Constantes: Os preços são atualizados regularmente, garantindo 
 
 ## Arquitetura
 ![Imagem](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/Diagrama%20sem%20nome.drawio%20(2).png?alt=media&token=afaabbd8-a336-46c4-8d63-4488f63be45c)
+
+## Prints
+![Imagem]([https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/Diagrama%20sem%20nome.drawio%20(2).png?alt=media&token=afaabbd8-a336-46c4-8d63-4488f63be45c](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/WhatsApp%20Image%202024-10-04%20at%2018.22.57.jpeg?alt=media&token=f2c3ef0b-a3fd-4838-aeec-aad05972e7d5)
+
+![Imagem]([https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/Diagrama%20sem%20nome.drawio%20(2).png?alt=media&token=afaabbd8-a336-46c4-8d63-4488f63be45c](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/WhatsApp%20Image%202024-10-04%20at%2018.22.57.jpeg?alt=media&token=f2c3ef0b-a3fd-4838-aeec-aad05972e7d5](https://firebasestorage.googleapis.com/v0/b/betsure-36cd0.appspot.com/o/WhatsApp%20Image%202024-10-04%20at%2018.22.03.jpeg?alt=media&token=48bee6f6-eb44-4521-9bcf-c6684e39444f)
+
 ## API
 
 Gerando token 
