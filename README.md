@@ -39,7 +39,8 @@ body:
 }
 
 
-https://www.belchiortech.com.br:3331/consulta-preco/swagger-ui.html
+https://www.belchiortech.com.br:3331/consulta-preco/swagger-ui/
+
 ## Stack
 
 Node, Java
